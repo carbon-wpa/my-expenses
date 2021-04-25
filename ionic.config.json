@@ -1,0 +1,7 @@
+{
+  "name": "my-expenses-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
